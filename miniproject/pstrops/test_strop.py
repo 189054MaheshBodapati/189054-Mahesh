@@ -1,0 +1,10 @@
+import  strop
+print(strop.getspan("Good Morning Mahesh.","Mahesh"))
+print(strop.reverseWords("Good Morning Mahesh"))
+print(strop.removePunctuations("Mahesh Bodapati!"))
+print(strop.countWords("iam mahesh"))
+print(strop.characterMap("Hellow"))
+print(strop.makeTitle("The Devera"))
+print(strop.normalizeSpaces("My name is        Mahesh "))
+print(strop.transform("Mahesh"))
+print(strop.getPermutations("abc"))
